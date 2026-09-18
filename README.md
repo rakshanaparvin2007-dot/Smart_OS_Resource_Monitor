@@ -1,2 +1,2 @@
-# Mini-Operating-System-Shell
+# Smart_OS_Resource_Monitor
 OS Mini Project
